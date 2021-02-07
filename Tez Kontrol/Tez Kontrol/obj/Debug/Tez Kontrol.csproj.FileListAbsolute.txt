@@ -1,0 +1,37 @@
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Tez Kontrol.exe.config
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Tez Kontrol.exe
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Tez Kontrol.pdb
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csprojAssemblyReference.cache
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez_Kontrol.Form1.resources
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez_Kontrol.Properties.Resources.resources
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.GenerateResource.cache
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.exe
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.pdb
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.ResolveComReference.cache
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Doc.dll
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.License.dll
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Pdf.dll
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Doc.xml
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.License.xml
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Pdf.xml
+C:\Users\Emrullah\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.CopyComplete
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Tez Kontrol.exe.config
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Tez Kontrol.exe
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Tez Kontrol.pdb
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.License.dll
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Pdf.dll
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Doc.xml
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.License.xml
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\bin\Debug\Spire.Pdf.xml
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.ResolveComReference.cache
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez_Kontrol.Form1.resources
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez_Kontrol.Properties.Resources.resources
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.csproj.CopyComplete
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.exe
+C:\Users\Hp\source\repos\Tez Kontrol\Tez Kontrol\obj\Debug\Tez Kontrol.pdb
